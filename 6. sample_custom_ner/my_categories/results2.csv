@@ -1,0 +1,7 @@
+label,word_1,word_2,word_3,word_4,word_5,word_6,word_7,word_8,word_9,word_10
+MEDICAL-CONDITIONS,acute respiratory distress syndrome,pneumonia,sepsis,ards,cytokine storm,multi-organ failure,hypoxemia,coagulopathy,acute kidney injury,cardiovascular complications
+SYMPTOMS,fever,cough,shortness of breath,fatigue,body aches,loss of taste or smell,sore throat,congestion or runny nose,nausea or vomiting,diarrhea
+TREATMENTS,vaccine,remdesivir,dexamethasone,convalescent plasma therapy,monoclonal antibodies,tocilizumab,ivermectin,favipiravir,azithromycin,baricitinib
+EVENTS,global pandemic declared,travel restrictions implemented,schools closed,work from home orders issued,mask mandates enforced,social distancing guidelines introduced,vaccination campaigns rolled out,economic shutdowns initiated,testing and contact tracing ramped up,healthcare systems overwhelmed
+POLICIES,mask mandate,social distancing guidelines,stay-at-home orders,quarantine requirements,capacity limits for businesses,travel restrictions,mandatory testing for travelers,remote work policies,school closures,mass gathering bans
+METRICS,cases,deaths,hospitalizations,recoveries,recovery rate,positive test rate,icu admissions,ventilator usage,vaccinations administered,testing capacity
