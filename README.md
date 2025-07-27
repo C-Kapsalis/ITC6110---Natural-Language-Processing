@@ -1,6 +1,4 @@
 # ITC6110 – Natural Language Processing Final Portfolio
-<b>Authors:</b> Christoforos Kapsalis et al.
-
 <b>Course:</b> ITC6110 – Natural Language Processing
 
 This repository presents a structured collection of NLP assignments and deliverables completed during the Fall 2023 semester. 
