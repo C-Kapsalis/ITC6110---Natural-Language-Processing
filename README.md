@@ -1,5 +1,7 @@
 # ITC6110 – Natural Language Processing Final Portfolio
 <b>Course:</b> ITC6110 – Natural Language Processing
+**Institution**: MS in Data Science, the American College of Greece
+**Term:** Spring 2024
 
 This repository presents a structured collection of NLP assignments and deliverables completed during the Fall 2023 semester. 
 
